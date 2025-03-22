@@ -59,7 +59,7 @@ class ThreadedHTTPServer:
     def run_server(self):
         server_socket = socket(AF_INET, SOCK_STREAM)
         server_socket.setsockopt(SOL_SOCKET, SO_REUSEADDR, 1)
-        server_socket.bind(('0.0.0.0', self.port))
+        server_socket.bind(('127.0.0.1', self.port))
         server_socket.listen(5)  # макс количество ожидающих соединений
         print(f"Server is running on port {self.port} with concurrency level {self.concurrency_level}...")
 

@@ -1,0 +1,10 @@
+HTTP/1.1 304 Not Modified
+Content-Type: application/pkix-crl
+Last-Modified: Fri, 13 Dec 2024 18:01:23 GMT
+ETag: "675c7673-2de"
+Cache-Control: max-age=3600
+Expires: Fri, 21 Mar 2025 14:15:47 GMT
+Date: Fri, 21 Mar 2025 13:15:47 GMT
+Connection: close
+X-N: S
+

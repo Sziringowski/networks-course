@@ -1,0 +1,10 @@
+HTTP/1.1 304 Not Modified
+Cross-Origin-Resource-Policy: cross-origin
+Date: Fri, 21 Mar 2025 13:15:47 GMT
+Expires: Fri, 21 Mar 2025 14:05:47 GMT
+Cache-Control: public, max-age=3000
+Last-Modified: Thu, 25 Jul 2024 14:48:00 GMT
+X-Content-Type-Options: nosniff
+Server: sffe
+X-XSS-Protection: 0
+
