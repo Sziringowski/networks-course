@@ -1,0 +1,5 @@
+{
+    "rules": [
+        {"listen_port": 8080, "target_ip": "192.168.1.100", "target_port": 80}
+    ]
+}
